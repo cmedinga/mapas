@@ -1,0 +1,47 @@
+name,x,y,marginx,marginy
+[OCÉANOS / MARES] Océano Glacial Ártico,246,35,150,30
+[OCÉANOS / MARES] Océano Pacífico,564,325,60,300
+[OCÉANOS / MARES] Océano Índico,145,533,80,100
+[OCÉANOS / MARES] Mar Rojo,21,356,2,50
+[OCÉANOS / MARES] Mar Mediterráneo,12,252,10,25
+[OCÉANOS / MARES] Mar Negro,72,222,10,20
+[OCÉANOS / MARES] Mar Caspio,130,264,10,30
+[OCÉANOS / MARES] Mar Aral,179,267,10,10
+[OCÉANOS / MARES] Lago Baikal,378,226,5,10
+[ISLAS] Formosa,500,376,5,10
+[ISLAS] Molucas,577,516,15,15
+[ISLAS] Célebes,530,536,30,30
+[ISLAS] Borneo,484,531,30,30
+[ISLAS] Sumatra,400,553,20,20
+[ISLAS] Java,470,586,30,5
+[ISLAS] Timor,563,570,5,5
+[ISLAS] Ceilán,256,514,10,14
+[ISLAS] Chipre,38,268,5,5
+[COSTAS] Península de Kamchatka,495,97,20,25
+[COSTAS] Penísula de Corea,491,282,15,20
+[COSTAS] Penísula de Indochina,393,445,50,50
+[COSTAS] Penísula de Malaca,400,527,15,27
+[COSTAS] Penísula del Indostán,240,433,50,80
+[COSTAS] Penísula Arábiga,59,360,30,80
+[COSTAS] Penísula del Sinaí,20,293,5,10
+[COSTAS] Penísula de Anatolia,42,242,15,15
+[COSTAS] Golfo de Bengala,313,465,40,40
+[COSTAS] Golfo de Omán,147,389,15,15
+[COSTAS] Golfo Pérsico,100,362,15,20
+[COSTAS] Golfo de Adén,50,438,20,10
+[RELIEVE] Urales,194,176,10,40
+[RELIEVE] Siberia,332,148,60,60
+[RELIEVE] Desierto de Gobi,418,246,35,35
+[RELIEVE] Caúcaso,106,250,10,10
+[RELIEVE] Hindu Kush,190,336,30,15
+[RELIEVE] Himalaya,290,369,50,10
+[RELIEVE] Everest (8848m),293,376,5,5
+[RÍOS] Huang-Ho (Amarillo),413,310,15,15
+[RÍOS] Yagtsé-Kiang (Azul),418,352,15,15
+[RÍOS] Mekong,397,434,30,30
+[RÍOS] Ganges,274,404,30,30
+[RÍOS] Indo,207,370,30,30
+[RÍOS] Tigris,80,302,7,30
+[RÍOS] Eúfrates,71,302,7,30
+[RÍOS] Jordán,42,286,10,10
+[RÍOS] Ural,164,213,30,30
